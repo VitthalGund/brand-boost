@@ -1,6 +1,7 @@
 {
   "name": "brand-boost-pro",
   "private": true,
+  "author": "Vitthal Gund",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
