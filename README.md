@@ -2,7 +2,7 @@
 
 Elevate Your Branding with Precision and Ease 🎯
 
-![BrandBoost Pro Logo](link/to/logo.png) <!-- Add your logo here -->
+<!-- ![BrandBoost Pro Logo](link/to/logo.png) Add your logo here -->
 
 ## Table of Contents
 
