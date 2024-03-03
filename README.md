@@ -44,7 +44,7 @@ Before using BrandBoost Pro, ensure you have the following prerequisites install
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/brandboost-pro.git
+   git clone https://github.com/VitthalGund/brandboost-pro.git
    ```
 
 2. Install dependencies for the frontend:
