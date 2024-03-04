@@ -97,4 +97,4 @@ We welcome contributions from the community! If you'd like to contribute to Bran
 
 ## License 📄
 
-[MIT License](link/to/license)
+[MIT License](https://github.com/VitthalGund/brand-boost/blob/main/LICENSE)
